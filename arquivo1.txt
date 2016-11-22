@@ -3,3 +3,6 @@ exemplo de arquivo vai para o git
 edicao
 
 nova ediçao
+
+
+modificao feita no git
