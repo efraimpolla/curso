@@ -1,0 +1,5 @@
+para adicionar um arquivo digite 
+git add . 
+git add <arquivo>
+
+git commit 
